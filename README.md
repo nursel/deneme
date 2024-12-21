@@ -1,7 +1,6 @@
 # deneme
 
-repository nasıl açılır bir proje nasıl başlar öğrendiğim proje
+repository açma
 
-bismillahirrahmanirrahim
 
-hello hi nice to meet you
+
